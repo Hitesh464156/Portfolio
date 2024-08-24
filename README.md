@@ -1,13 +1,10 @@
-# Portfolio
-
 Portfolio Website
-Welcome to my portfolio website, built using React, Express, and MongoDB.
-
+A simple portfolio website built with React, Express, and MongoDB
 Features
-A simple and clean design showcasing my education, coding skills, and projects
-Interactive elements using JavaScript and React
-Server-side rendering using Express.js
-Data storage using MongoDB
+Clean Design: A minimalistic design showcasing my education, coding skills, and projects
+Interactive Elements: JavaScript and React used to create interactive elements
+Server-Side Rendering: Express.js used for server-side rendering
+Data Storage: MongoDB used for storing data
 Technologies Used
 Frontend: React, CSS
 Backend: Express.js, Node.js
@@ -21,10 +18,10 @@ App.css: The CSS file for styling the React components
 App.js: The main React component for the website
 index.js: The entry point for the React application
 How to Run
-Clone the repository using git clone <repository-url>
-Install dependencies using npm install
-Start the server using npm start
-Open the website in your browser using http://localhost:3000
+Clone the repository: git clone <repository-url>
+Install dependencies: npm install
+Start the server: npm start
+Open the website: http://localhost:3000
 License
 This project is licensed under the MIT License. See LICENSE for details.
 
@@ -35,3 +32,4 @@ Contact
 Email: 2022ucp1655@mnit.ac.in
 Phone: +917424810080
 LinkedIn: https://www.linkedin.com/in/hitesh-prajapat-170647277/
+You can copy and paste this into your GitHub repository, and the formatting should work as expected. Note that I've used a mix of Markdown and HTML formatting to achieve the desired look.
